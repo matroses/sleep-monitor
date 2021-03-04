@@ -1,2 +1,2 @@
 # sleep-monitor
-Sleep disorder monitoring app
+Sleep disorder monitoring tool
