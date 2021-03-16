@@ -16,6 +16,7 @@
 .idea/
 
 # Visual Studio Code related
+*.code-workspace
 .classpath
 .project
 .settings/
